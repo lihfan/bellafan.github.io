@@ -80,8 +80,11 @@ Honors and Awards
 
 
 
-Services
+Academic Services
 ======
 * Volunteer of VLDB 2024
-* Teaching Assistant of Formal Languages and Automa, Beihang University, 2019
 * Sub-reviewer: TKDE 2023, EDBT 2023, ICDE 2024
+
+Teaching Assistant Experience
+======
+* Teaching Assistant of Formal Languages and Automa, Beihang University, 2020-2021
