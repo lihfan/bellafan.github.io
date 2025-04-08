@@ -20,6 +20,7 @@ Education
 * B.S. in College of Information Engineering
 * GPA: 3.80 / 4.00 ｜ Ranking: 1/318 (Top 1%)
 
+
 Work experience
 ======
 ### Shenzhen Institute of Computing Sciences (SICS), Shenzhen, China, Mar.2021 - Oct.2024
