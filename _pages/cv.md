@@ -22,7 +22,7 @@ redirect_from:
 
 
 # Work experience
-======
+
 ### Shenzhen Institute of Computing Sciences (SICS), Shenzhen, China, Mar.2021 - Oct.2024
 * Research Intern in Fundamental Research Center
   * Graph Data Mining
@@ -58,8 +58,8 @@ redirect_from:
 
 
 
-#Honors and Awards
-======
+# Honors and Awards
+
 ### Beihang University
 * Apr. 2024 ACM SIGMOD Student Support Scholarship Award
 * Nov. 2021 Outstanding Student Cadre Award, Beihang University
@@ -79,11 +79,9 @@ redirect_from:
 * Nov. 2016 Outstanding Student, Northwest A&F University
 
 
-#Academic Services
-======
+# Academic Services
 * Volunteer of VLDB 2024
 * Sub-reviewer: TKDE 2023, EDBT 2023, ICDE 2024
 
-#Teaching Assistant Experience
-======
+# Teaching Assistant Experience
 * Teaching Assistant of Formal Languages and Automa, Beihang University, 2020-2021
