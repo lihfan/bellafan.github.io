@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-### Beihang University, Beijing, China, Aug.2018 - June 2025
+## Beihang University, Beijing, China, Aug.2018 - June 2025
 * Ph.D. Candidate in School of Computer Science and Engineering
 * GPA: 3.73 / 4.00 ｜ Ranking: 13/91 (Top 14%)
 * Supervised by **[Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)**
 
-### Northwest A&F University, Xi'an, China, Aug.2014 - June 2018
+## Northwest A&F University, Xi'an, China, Aug.2014 - June 2018
 * B.S. in College of Information Engineering
 * GPA: 3.80 / 4.00 ｜ Ranking: 1/318 (Top 1%)
 
 
 Work experience
 ======
-### Shenzhen Institute of Computing Sciences (SICS), Shenzhen, China, Mar.2021 - Oct.2024
+## Shenzhen Institute of Computing Sciences (SICS), Shenzhen, China, Mar.2021 - Oct.2024
 * Research Intern in Fundamental Research Center
   * Graph Data Mining
   * Recommendation Systems
@@ -60,7 +60,7 @@ Work experience
 
 Honors and Awards
 ======
-### Beihang University
+## Beihang University
 * Apr. 2024 ACM SIGMOD Student Support Scholarship Award
 * Nov. 2021 Outstanding Student Cadre Award, Beihang University
 * Oct. 2021 The First Prize Scholarship, Beihang University
@@ -70,7 +70,7 @@ Honors and Awards
 * Oct. 2020 The Second Prize Scholarship, Beihang University
 * Oct. 2019 The Second Prize Scholarship, Beihang University
 
-### Northwest A&F University
+## Northwest A&F University
 * Jun. 2018 Outstanding Undergraduate Thesis Award, Northwest A&F University
 * Nov. 2017 **National Scholarship**
 * Nov. 2017 The First Prize Scholarship, Northwest A&F University
