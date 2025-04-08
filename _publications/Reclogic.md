@@ -1,7 +1,7 @@
 ---
 title: "Enriching Recommendation Models with Logic Conditions"
 collection: publications
-#permalink: /publication/sigmod-2024-ERMWLC
+permalink: /publication/sigmod-2023-RecLogic
 date: 2023-11-13
 venue: 'The ACM SIGMOD International Conference on Management of Data(SIGMOD)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3617330'
@@ -12,5 +12,8 @@ authors:
   - "Chao Tian"
   - "Qiang Yin"
 ---
+
+# Abstract
+This paper proposes RecLogic, a framework for improving the accuracy of machine learning (ML) models for recommendation. It aims to enhance existing ML models with logic conditions to reduce false positives and false negatives, without training a new model. Underlying RecLogic are (a) a class of prediction rules on graphs, denoted by TIEs, (b) a new approach to learning TIEs, and (c) a new paradigm for recommendation with TIEs. TIEs may embed ML recommendation models as predicates; as opposed to prior graph rules, it is tractable to decide whether a graph satisfies a set of TIEs. To enrich ML models, RecLogic iteratively trains a generator with feedback from each round, to learn TIEs with a probabilistic bound. RecLogic also provides a PTIME parallel algorithm for making recommendations with the learned TIEs. Using real-life data, we empirically verify that RecLogic improves the accuracy of ML predictions by 22.89% on average in an area where the prediction strength is neither sufficiently large nor sufficiently small, up to 33.10%.
 
 **Lihang Fan**, Wenfei Fan, Ping Lu, Chao Tian, Qiang Yin
