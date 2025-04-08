@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 ### Biography
-I am a Ph.D student in [Beihang University, The School of Computer Science and Engineering](https://scse.buaa.edu.cn/English/Home.htm). I am advised by [Professor Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/). Before that, I obtained my bachelor degree from [Northwest A&F University, College of Information Engeering](https://cie.nwafu.edu.cn/).
+I am currently a Ph.D. candidate at [Beihang University, The School of Computer Science and Engineering](https://scse.buaa.edu.cn/English/Home.htm), under the supervision of [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/). I received my B.Eng. from [Northwest A&F University, College of Information Engeering](https://cie.nwafu.edu.cn/).
 
 ### Research Interest
-I have broad interest in
-* **Recommendation Systems** (Logic Rule-Enhanced Recommendations, Explaining GNN-based Recommendations, Sequential Recommendations)
+My research spans data mining‌ and machine learning‌, with a focus on:
+* **Recommendation Systems** (Logic-enhanced Recommendations, Explaining GNN-based Recommendations, Sequential Recommendations)
 * **Graph Data Mining** (Graph Neural Networks, Subgraph Pattern Mining, Knowledge Graphs) 
 * **Logic Reasoning and Machine Learning** (Graph Association Rules, Rule Discovery)
-
