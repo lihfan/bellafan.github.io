@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Research Intern in Fundamental Research Center, Shenzhen Institute of Computing Sciences, Mar.2021 - Oct.2024
+* Research Intern in Fundamental Research Center, Shenzhen Institute of Computing Sciences (SICS), Mar.2021 - Oct.2024
   * Graph Data Mining
   * Recommendation Systems
   * Explainability
