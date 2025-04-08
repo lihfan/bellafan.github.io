@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "CV"
 permalink: cv/
@@ -12,7 +13,7 @@ Education
 ======
 * Ph.D. Candidate in School of Computer Science and Engineering, Beihang University (Supervised by **Prof. Wenfei Fan**), Aug.2018 - Present
   * GPA: 3.73 / 4.00, Ranking: 13/91 (Top 14%)
-* B.Eng. in College of Information Engineering, Northwest A&F University, Aug.2014 - June.2018
+* B.S. in College of Information Engineering, Northwest A&F University, Aug.2014 - June.2018
   * GPA: 3.80 / 4.00, Ranking: 1/318 (Top 1%)
 
 Work experience
