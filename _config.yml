@@ -21,7 +21,7 @@ repository               : "lihfan/lihfan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lihfan.png"
   name             : "Lihang Fan"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate at Beihang University"
