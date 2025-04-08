@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/262170c1-12e4-4c2a-b3f7-019256356fbf)![image](https://github.com/user-attachments/assets/a7585ee5-f4c2-4f3e-8bb2-abbb93f35912)![image](https://github.com/user-attachments/assets/82515b8a-4f80-4ae2-8070-95c945bffad0)![image](https://github.com/user-attachments/assets/302a7028-81c1-45d5-adbe-a36d40693282)![image](https://github.com/user-attachments/assets/b307ac11-c361-4303-9f9a-23557dd05037)![image](https://github.com/user-attachments/assets/48e70738-b401-4007-81e5-74554bd342ad)![image](https://github.com/user-attachments/assets/9040bccc-f998-45dc-988d-9e2d9d2b630e)---
 layout: archive
 title: "CV"
 permalink: cv/
@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science,Beihang University (Supervised by **Prof. Wenfei Fan**), 2018 - now
+* Ph.D. Candidate in School of Computer Science and Engineering, Beihang University (Supervised by **Prof. Wenfei Fan**), Aug.2018 - Present
   * GPA: 3.73 / 4.00, Ranking: 13/91 (Top 14%)
-* B.S. in Information Management and Information Systems, Northwest A&F University, 2014 - 2018
-  * Thesis : 基于顶点划分的并行图再分割算法研究
-  * GPA: 3.8 / 4.00, Ranking: 1/318 (Top 1%)
+* B.Eng. in College of Information Engineering, Northwest A&F University, Aug.2014 - June.2018
+  * GPA: 3.80 / 4.00, Ranking: 1/318 (Top 1%)
 
 Work experience
 ======
-* Research Intern, Shenzhen Institute of Computing Sciences, Mar.2021 - Oct.2024)
-  * Graph Pattern Mining
+* Research Intern in Fundamental Research Center, Shenzhen Institute of Computing Sciences, Mar.2021 - Oct.2024
+  * Graph Data Mining
   * Recommendation Systems
   * Explainability
 
@@ -31,7 +30,7 @@ Work experience
 
 * **Tech Stack**: Python/PyTorch (traditional recommendation models), C++ (subgraph matching), LSTM, Decision Trees.
 
-* **Deployment**: SIGMOD 2023. Implemented in AIRec Recommendation platform. https://airec.grandhoo.com/
+* **Deployment**: SIGMOD 2023. Implemented in SICS AIRec Recommendation platform. https://airec.grandhoo.com/
 
 ### 2. Graph Neural Networks and Explainable Recommendation Systems
 * **Project Overview**:Makex, a logic approach to explaining why a GNN-based model M (𝑥, 𝑦) recommends item 𝑦 to user 𝑥，providing both global and local explanations for recommendations.
@@ -40,7 +39,7 @@ Work experience
 
 * **Tech Stack**: Python/PyTorch (GNNs), C++ (subgraph matching), MCTS, 1-WL test
 
-* **Deployment**: VLDB 2024. Implemented in MedHunter AI Drug Discovery Platform. https://medhunter.grandhoo.com/
+* **Deployment**: VLDB 2025. Implemented in SICS MedHunter AI Drug Discovery Platform. https://medhunter.grandhoo.com/
 
 ### 3. Graph Data Mining and Logic-Driven Sequential Recommendation
 * **Project Overview**: LDSRec, a novel framework that integrates logic rules with sequential recommendation models by representation learning to capture users' short-term behaviors and long-term preferences.
@@ -49,11 +48,11 @@ Work experience
 
 * **Tech Stack**: Python/PyTorch (sequential recommendation), C++ (subgraph matching), LSTM/Transformer, contrastive learning
 
-* **Deployment**: Under submission VLDB 2025.
+* **Deployment**: Under submission VLDB 2026.
 
 
 
-Honor
+Honors and Awards
 ======
 * Apr. 2024 ACM SIGMOD Student Support Scholarship Award
 * Nov. 2021 Outstanding Student Cadre Award, Beihang University
@@ -63,13 +62,13 @@ Honor
 * Nov. 2020 Outstanding Student Cadre Award, Beihang University
 * Oct. 2020 The Second Prize Scholarship, Beihang University
 * Oct. 2019 The Second Prize Scholarship, Beihang University
-* Jun. 2018 Top 100 Outstanding Undergraduate Thesis Award, Northwest A&F University
+* Jun. 2018 Outstanding Undergraduate Thesis Award, Northwest A&F University
 * Nov. 2017 **National Scholarship**
 * Nov. 2017 The First Prize Scholarship, Northwest A&F University
-* Nov.2017 Outstanding Student, Northwest A&F University
+* Nov. 2017 Outstanding Student, Northwest A&F University
 * Nov. 2016 **National Scholarship**
 * Nov. 2016 The First Prize Scholarship, Northwest A&F University
-* Nov.2016 Outstanding Student, Northwest A&F University
+* Nov. 2016 Outstanding Student, Northwest A&F University
 
 
 
