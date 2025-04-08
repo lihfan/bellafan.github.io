@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+#Education
+===
 ### Beihang University, Beijing, China, Aug.2018 - June 2025
 * Ph.D. Candidate in School of Computer Science and Engineering
 * GPA: 3.73 / 4.00 ｜ Ranking: 13/91 (Top 14%)
@@ -21,7 +21,7 @@ Education
 * GPA: 3.80 / 4.00 ｜ Ranking: 1/318 (Top 1%)
 
 
-Work experience
+#Work experience
 ======
 ### Shenzhen Institute of Computing Sciences (SICS), Shenzhen, China, Mar.2021 - Oct.2024
 * Research Intern in Fundamental Research Center
@@ -58,7 +58,7 @@ Work experience
 
 
 
-Honors and Awards
+#Honors and Awards
 ======
 ### Beihang University
 * Apr. 2024 ACM SIGMOD Student Support Scholarship Award
@@ -79,11 +79,11 @@ Honors and Awards
 * Nov. 2016 Outstanding Student, Northwest A&F University
 
 
-Academic Services
+#Academic Services
 ======
 * Volunteer of VLDB 2024
 * Sub-reviewer: TKDE 2023, EDBT 2023, ICDE 2024
 
-Teaching Assistant Experience
+#Teaching Assistant Experience
 ======
 * Teaching Assistant of Formal Languages and Automa, Beihang University, 2020-2021
