@@ -19,4 +19,4 @@ My research integrates ‌data mining‌ and ‌machine learning‌, with a focu
 * **Logic Reasoning and Machine Learning** (Graph Association Rules, Rule Discovery)
 
 ### Contact
-Email: fanlh@buaa.edu.cn
+Email: fanlh@buaa.edu.cn, lihfan96@gmail.com
