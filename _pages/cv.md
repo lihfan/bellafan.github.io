@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/262170c1-12e4-4c2a-b3f7-019256356fbf)![image](https://github.com/user-attachments/assets/a7585ee5-f4c2-4f3e-8bb2-abbb93f35912)![image](https://github.com/user-attachments/assets/82515b8a-4f80-4ae2-8070-95c945bffad0)![image](https://github.com/user-attachments/assets/302a7028-81c1-45d5-adbe-a36d40693282)![image](https://github.com/user-attachments/assets/b307ac11-c361-4303-9f9a-23557dd05037)![image](https://github.com/user-attachments/assets/48e70738-b401-4007-81e5-74554bd342ad)![image](https://github.com/user-attachments/assets/9040bccc-f998-45dc-988d-9e2d9d2b630e)---
 layout: archive
 title: "CV"
 permalink: cv/
@@ -30,16 +29,16 @@ Work experience
 
 * **Tech Stack**: Python/PyTorch (traditional recommendation models), C++ (subgraph matching), LSTM, Decision Trees.
 
-* **Deployment**: SIGMOD 2023. Implemented in SICS AIRec Recommendation platform. https://airec.grandhoo.com/
+* **Deployment**: SIGMOD 2023. Implemented in SICS [AIRec](https://airec.grandhoo.com/) Recommendation platform.
 
 ### 2. Graph Neural Networks and Explainable Recommendation Systems
-* **Project Overview**:Makex, a logic approach to explaining why a GNN-based model M (𝑥, 𝑦) recommends item 𝑦 to user 𝑥，providing both global and local explanations for recommendations.
+* **Project Overview**:Makex, a logic approach to explaining why a GNN-based model M(x,y) recommends item y to user x, providing both global and local explanations for recommendations.
 
 * **Technical Approach**: (1) Proposed Rules for ExPlanations (REPs) defined by dual-star graph patterns and dependency, revealing the topological and feature conditions for recommendations. (2) Implemented a GNN-guided algorithm using Monte Carlo Tree Search (MCTS) to discover REPs and generate global explanations. (3) Utilized the 1-WL test to explain GNN behaviors, ensuring faithfulness to GNN predictions, achieving 32% higher recognizability and 42% higher reliability in global explanations compared to baselines. (4) Developed a Top-k algorithm for local explanations, the fidelity and sparsity of its top-1 explanation are 0.893 and 0.00225% on average, 80.62% and 3 orders of magnitude better than the baselines, respectively. It takes only 0.38s to generate top-1 explanation on large graphs, 75.8X faster than baselines on average.
 
 * **Tech Stack**: Python/PyTorch (GNNs), C++ (subgraph matching), MCTS, 1-WL test
 
-* **Deployment**: VLDB 2025. Implemented in SICS MedHunter AI Drug Discovery Platform. https://medhunter.grandhoo.com/
+* **Deployment**: VLDB 2025. Implemented in SICS [MedHunter](https://medhunter.grandhoo.com/) AI Drug Discovery Platform.
 
 ### 3. Graph Data Mining and Logic-Driven Sequential Recommendation
 * **Project Overview**: LDSRec, a novel framework that integrates logic rules with sequential recommendation models by representation learning to capture users' short-term behaviors and long-term preferences.
