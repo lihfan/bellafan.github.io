@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-#Education
-===
+# Education
+
 ### Beihang University, Beijing, China, Aug.2018 - June 2025
 * Ph.D. Candidate in School of Computer Science and Engineering
 * GPA: 3.73 / 4.00 ｜ Ranking: 13/91 (Top 14%)
@@ -21,7 +21,7 @@ redirect_from:
 * GPA: 3.80 / 4.00 ｜ Ranking: 1/318 (Top 1%)
 
 
-#Work experience
+# Work experience
 ======
 ### Shenzhen Institute of Computing Sciences (SICS), Shenzhen, China, Mar.2021 - Oct.2024
 * Research Intern in Fundamental Research Center
