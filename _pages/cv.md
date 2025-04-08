@@ -69,6 +69,7 @@ Honors and Awards
 * Nov. 2020 Outstanding Student Cadre Award, Beihang University
 * Oct. 2020 The Second Prize Scholarship, Beihang University
 * Oct. 2019 The Second Prize Scholarship, Beihang University
+
 ### Northwest A&F University
 * Jun. 2018 Outstanding Undergraduate Thesis Award, Northwest A&F University
 * Nov. 2017 **National Scholarship**
