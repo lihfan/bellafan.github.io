@@ -1,12 +1,13 @@
 ---
 permalink: /
-#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Lihang Fan (樊李行)"
+excerpt: "Lihang Fan"
 author_profile: true
 redirect_from: 
+  - /about/
   - /about.html
 ---
 
-### Lihang Fan (樊李行)
 
 ### Biography
 I am currently a Ph.D. candidate in [Computer Science and Engineering at Beihang University](https://scse.buaa.edu.cn/English/Home.htm), supervised by ‌[Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)‌. I received my ‌B.S. in [Information Engineering‌ from Northwest A&F University](https://cie.nwafu.edu.cn/).
