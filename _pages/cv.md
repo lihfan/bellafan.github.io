@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-### Beihang University, Beijing, China, Aug.2018 - June.2025
+### Beihang University, Beijing, China, Aug.2018 - June 2025
 * Ph.D. Candidate in School of Computer Science and Engineering
-* GPA: 3.73 / 4.00, Ranking: 13/91 (Top 14%)
+* GPA: 3.73 / 4.00 ｜ Ranking: 13/91 (Top 14%)
 * Supervised by **[Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)**
 
-### Northwest A&F University, Xi'an, China, Aug.2014 - June.2018
+### Northwest A&F University, Xi'an, China, Aug.2014 - June 2018
 * B.S. in College of Information Engineering
-* GPA: 3.80 / 4.00, Ranking: 1/318 (Top 1%)
+* GPA: 3.80 / 4.00 ｜ Ranking: 1/318 (Top 1%)
 
 Work experience
 ======
