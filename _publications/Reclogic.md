@@ -1,3 +1,4 @@
+---
 title: "Enriching Recommendation Models with Logic Conditions"
 collection: publications
 #permalink: /publication/sigmod-2024-ERMWLC
