@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### Lihang Fan(樊李行)
+### Lihang Fan (樊李行)
 
 ### Biography
 I am currently a Ph.D. candidate in [Computer Science and Engineering at Beihang University](https://scse.buaa.edu.cn/English/Home.htm), supervised by ‌[Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)‌. I received my ‌B.S. in [Information Engineering‌ from Northwest A&F University](https://cie.nwafu.edu.cn/).
