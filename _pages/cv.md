@@ -45,7 +45,7 @@ redirect_from:
 
 * **Tech Stack**: Python/PyTorch (GNNs), C++ (subgraph matching), MCTS, 1-WL test.
 
-* **Deployment**: VLDB 2025. Implemented in SICS [MedHunter](https://medhunter.grandhoo.com/) AI Drug Discovery Platform.
+* **Deployment**: VLDB 2024. Implemented in SICS [MedHunter](https://medhunter.grandhoo.com/) AI Drug Discovery Platform.
 
 ### 3. Graph Data Mining and Logic-Driven Sequential Recommendation
 * **Project Overview**: LDSRec, a novel framework that integrates logic rules with sequential recommendation models by representation learning to capture users' short-term behaviors and long-term preferences.
