@@ -7,7 +7,7 @@ venue: 'International Conference on Very Large Data Bases(VLDB)'
 paperurl: 'https://www.vldb.org/pvldb/volumes/18/paper/Explaining%20GNN-based%20Recommendations%20in%20Logic'
 authors: 
   - "Wenfei Fan"
-  - "**Lihang Fan**"
+  - "<strong>Lihang Fan</strong>"
   - "Dandan Lin"
   - "Min Xie"
 ---
