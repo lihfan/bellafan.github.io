@@ -23,7 +23,7 @@ redirect_from:
 
 # Work experience
 
-### Shenzhen Institute of Computing Sciences (SICS), Shenzhen, China, Mar.2021 - Oct.2024
+## Shenzhen Institute of Computing Sciences (SICS), Shenzhen, China, Mar.2021 - Oct.2024
 * Research Intern in Fundamental Research Center
   * Graph Data Mining
   * Recommendation Systems
@@ -50,7 +50,7 @@ redirect_from:
 ### 3. Graph Data Mining and Logic-Driven Sequential Recommendation
 * **Project Overview**: LDSRec, a novel framework that integrates logic rules with sequential recommendation models by representation learning to capture users' short-term behaviors and long-term preferences.
 
-* **Technical Approach**: (1) Defined SEquential Rules (SERs) that combine sequential graph patterns with logic preconditions, enabling polynomial-time representation learning. (2) Transformed user behavior sequences into a global heterogeneous graph, maintaining strict temporal order via path-centric subsequence division, and item co-occurrence dependencies, and capturing high-order dependencies through correlated interaction paths. (3) Combined SER-guided embeddings with original model outputs, optimized via contrastive learning to align logic rules with latent user interest representations. The model was further optimized using a loss function that integrates logic-driven contributions.
+* **Technical Approach**: (1) Defined SEquential Rules (SERs) that combine sequential graph patterns with logic preconditions, enabling polynomial time representation learning. (2) Transformed user behavior sequences into a global heterogeneous graph, maintaining strict temporal order via path centric subsequence division, and item co-occurrence dependencies, and capturing high-order dependencies through correlated interaction paths. (3) Combined SER-guided embeddings with original model outputs, optimized via contrastive learning to align logic rules with latent user interest representations. The model was further optimized using a loss function that integrates logic-driven contributions.
 
 * **Tech Stack**: Python/PyTorch (sequential recommendation), C++ (subgraph matching), LSTM/Transformer, Contrastive Learning.
 
@@ -69,6 +69,7 @@ redirect_from:
 * Nov. 2020 Outstanding Student Cadre Award, Beihang University
 * Oct. 2020 The Second Prize Scholarship, Beihang University
 * Oct. 2019 The Second Prize Scholarship, Beihang University
+
 ### Northwest A&F University
 * Jun. 2018 Outstanding Undergraduate Thesis Award, Northwest A&F University
 * Nov. 2017 **National Scholarship**
