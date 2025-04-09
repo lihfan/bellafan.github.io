@@ -6,7 +6,7 @@ date: 2023-11-13
 venue: 'The ACM SIGMOD International Conference on Management of Data(SIGMOD)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3617330'
 authors: 
-  - "**Lihang Fan**"
+  - "<strong>Lihang Fan</strong>"
   - "Wenfei Fan"
   - "Ping Lu"
   - "Chao Tian"
