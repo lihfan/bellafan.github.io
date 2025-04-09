@@ -23,7 +23,7 @@ redirect_from:
 
 # Work experience
 
-## Shenzhen Institute of Computing Sciences (SICS), Shenzhen, China, Mar.2021 - Oct.2024
+## Shenzhen Institute of Computing Sciences ([SICS](https://www.sics.ac.cn/)), Shenzhen, China, Mar.2021 - Oct.2024
 * Research Intern in Fundamental Research Center
   * Graph Data Mining
   * Recommendation Systems
