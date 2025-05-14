@@ -61,6 +61,7 @@ redirect_from:
 # Honors and Awards
 
 ### Beihang University
+* May. 2025 Outstanding Graduates of Beihang University
 * Apr. 2024 ACM SIGMOD Student Support Scholarship Award
 * Nov. 2021 Outstanding Student Cadre Award, Beihang University
 * Oct. 2021 The First Prize Scholarship, Beihang University
